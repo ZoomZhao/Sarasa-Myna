@@ -1,0 +1,90 @@
+[
+  {
+    "file": "Sarasa-Myna-Regular.ttf",
+    "sha256": "c11bbe359e30cd90484c6e3d3cd3e0d8c49e606e593921775f4fd668d7dbefd9",
+    "codepoints": 59717,
+    "myna_codepoints": 1106,
+    "fallback_codepoints": 58611,
+    "glyphs": 59499,
+    "advance_widths": {
+      "0": 286,
+      "486": 16003,
+      "972": 43428
+    },
+    "line_metrics": [
+      984,
+      -277,
+      0
+    ],
+    "windows_clipping_bounds": [
+      1286,
+      580
+    ]
+  },
+  {
+    "file": "Sarasa-Myna-Italic.ttf",
+    "sha256": "0ed31e46ce3b2d83c646921fe904bd6b7371f4bc4a6b0010d8174a79aa6a4e26",
+    "codepoints": 59717,
+    "myna_codepoints": 1106,
+    "fallback_codepoints": 58611,
+    "glyphs": 59498,
+    "advance_widths": {
+      "0": 286,
+      "486": 16003,
+      "972": 43428
+    },
+    "line_metrics": [
+      984,
+      -277,
+      0
+    ],
+    "windows_clipping_bounds": [
+      1286,
+      581
+    ]
+  },
+  {
+    "file": "Sarasa-Myna-Bold.ttf",
+    "sha256": "2b982d30f930ba032da0789c4ca4bdf0f671f339f35dbbc1c9973972a1b75446",
+    "codepoints": 59716,
+    "myna_codepoints": 1174,
+    "fallback_codepoints": 58542,
+    "glyphs": 59488,
+    "advance_widths": {
+      "0": 286,
+      "486": 16002,
+      "972": 43428
+    },
+    "line_metrics": [
+      984,
+      -277,
+      0
+    ],
+    "windows_clipping_bounds": [
+      1294,
+      586
+    ]
+  },
+  {
+    "file": "Sarasa-Myna-BoldItalic.ttf",
+    "sha256": "9d77f9b96ba6a42e9105f53d27badffa7ec934d91c5e276aede393e65120c9b8",
+    "codepoints": 59716,
+    "myna_codepoints": 1174,
+    "fallback_codepoints": 58542,
+    "glyphs": 59487,
+    "advance_widths": {
+      "0": 286,
+      "486": 16002,
+      "972": 43428
+    },
+    "line_metrics": [
+      984,
+      -277,
+      0
+    ],
+    "windows_clipping_bounds": [
+      1294,
+      587
+    ]
+  }
+]

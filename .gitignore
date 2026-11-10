@@ -1,0 +1,13 @@
+.venv/
+.library-tools/
+__pycache__/
+downloads/
+sources/
+upstream/
+build/
+dist/
+fonts/
+SHA256SUMS.txt
+*.zip
+*.log
+.DS_Store

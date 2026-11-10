@@ -1,0 +1,15 @@
+https://github.com/sayyadirfanali/Myna/blob/main/OFL.txt
+https://github.com/sayyadirfanali/Myna/blob/main/README.md
+https://github.com/laishulu/Sarasa-Term-SC-Nerd/blob/main/LICENSE
+https://github.com/laishulu/Sarasa-Term-SC-Nerd/blob/main/README.md
+https://github.com/laishulu/Sarasa-Term-SC-Nerd/blob/main/scripts/font-patcher
+https://github.com/ryanoasis/nerd-fonts/blob/v3.3.0/LICENSE
+https://github.com/ryanoasis/nerd-fonts/blob/v3.3.0/license-audit.md
+https://github.com/ryanoasis/nerd-fonts/tree/v3.3.0/src/glyphs
+https://github.com/lukas-w/font-logos/blob/master/LICENSE
+https://github.com/lukas-w/font-logos/commit/0b10f1ca42d323f27d0e41f2f38c695ff28f0eae
+https://raw.githubusercontent.com/devicons/devicon/master/LICENSE
+https://raw.githubusercontent.com/vorillaz/devicons/main/LICENSE
+https://raw.githubusercontent.com/jesseweed/seti-ui/master/LICENSE.md
+https://raw.githubusercontent.com/jloughry/Unicode/master/LICENSE.txt
+https://www.apache.org/licenses/LICENSE-2.0.txt

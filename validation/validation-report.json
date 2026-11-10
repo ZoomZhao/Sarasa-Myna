@@ -1,0 +1,50 @@
+[
+  {
+    "style": "Regular",
+    "status": "passed",
+    "myna_outlines_verified": 1106,
+    "fallback_codepoints_verified": 58611,
+    "cjk_2_to_1_verified": 20976,
+    "shaping_samples": 6,
+    "glyphs": 59499,
+    "codepoints": 59717,
+    "excluded_fae_slots": 170,
+    "sha256": "c11bbe359e30cd90484c6e3d3cd3e0d8c49e606e593921775f4fd668d7dbefd9"
+  },
+  {
+    "style": "Italic",
+    "status": "passed",
+    "myna_outlines_verified": 1106,
+    "fallback_codepoints_verified": 58611,
+    "cjk_2_to_1_verified": 20976,
+    "shaping_samples": 6,
+    "glyphs": 59498,
+    "codepoints": 59717,
+    "excluded_fae_slots": 170,
+    "sha256": "0ed31e46ce3b2d83c646921fe904bd6b7371f4bc4a6b0010d8174a79aa6a4e26"
+  },
+  {
+    "style": "Bold",
+    "status": "passed",
+    "myna_outlines_verified": 1174,
+    "fallback_codepoints_verified": 58542,
+    "cjk_2_to_1_verified": 20976,
+    "shaping_samples": 6,
+    "glyphs": 59488,
+    "codepoints": 59716,
+    "excluded_fae_slots": 170,
+    "sha256": "2b982d30f930ba032da0789c4ca4bdf0f671f339f35dbbc1c9973972a1b75446"
+  },
+  {
+    "style": "BoldItalic",
+    "status": "passed",
+    "myna_outlines_verified": 1174,
+    "fallback_codepoints_verified": 58542,
+    "cjk_2_to_1_verified": 20976,
+    "shaping_samples": 6,
+    "glyphs": 59487,
+    "codepoints": 59716,
+    "excluded_fae_slots": 170,
+    "sha256": "9d77f9b96ba6a42e9105f53d27badffa7ec934d91c5e276aede393e65120c9b8"
+  }
+]
